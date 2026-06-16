@@ -2,7 +2,9 @@
 
 *AirGPU* is a decentralized compute-sharing platform that connects students and small developers who need GPU power with contributors who have idle hardware sitting unused. 
 
-Downlod desktop app: https://github.com/SOMASEKAR17/AirGPU
+Visit the website: https://airgpu.vercel.app/
+Download desktop app: https://github.com/SOMASEKAR17/AirGPU
+
 
 Think of it as Airbnb for GPUs: instead of expensive cloud bills, users can tap into a community-driven pool of real machines to run AI training jobs, simulations, and research workloads at a fraction of the cost.
 
